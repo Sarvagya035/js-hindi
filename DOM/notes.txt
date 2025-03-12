@@ -1,0 +1,11 @@
+inner html supports html tag in dom and.Show all the text(hidden or unhidden) in the target element and show all the html tags within the target element
+inner text shows all the text visisble on the screen but not the hidden text.
+text context shows all the text(hidden and visible).
+
+
+It is easy to manipulate dom if we know how to select that element and how to take values from that element.
+
+Major difference between query selector and query selector all is the datatype they return. Query selector all returns a node list.
+
+A node list is a list but it is not an array. It has some properties of an array like for each and way to access element is similar to that of an array 
+but still it is not an array.
